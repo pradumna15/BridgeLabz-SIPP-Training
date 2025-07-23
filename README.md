@@ -3,62 +3,95 @@
 This repository hosts a structured collection of Java training modules developed under the BridgeLabz SIPP Program. The content is organized across four dedicated branches, each focusing on a key pillar of Java development.
 
 📌 Branch Structure
-🔹 1. Core-Java
-This branch contains the foundational Java topics essential for any beginner. It introduces the basics of Java programming and builds a strong base for advanced topics.
+
+🔹 1. Core-Java – Foundations of Java Programming
+This branch lays the groundwork for your Java journey. It introduces fundamental concepts and syntax to build a solid understanding of the language.
 
 Topics Covered:
 
-Java Syntax and Structure
-Data Types and Variables
-Operators and Expressions
-Conditional Statements (if-else, switch)
-Loops (for, while, do-while)
-Arrays and Strings
+Java Syntax & Program Structure
+
+Data Types & Variables
+
+Operators & Expressions
+
+Conditional Logic (if, else, switch)
+
+Looping Constructs (for, while, do-while)
+
+Arrays & String Manipulation
+
 Exception Handling
-Input/Output (Scanner, BufferedReader)
-Introduction to Methods
 
-🔹 2. OOPs
-The OOPs branch dives into Object-Oriented Programming concepts, which are the backbone of Java programming.
+Basic I/O (Scanner, BufferedReader)
 
-Topics Covered:
+Introduction to Methods & Functions
 
-Classes and Objects
-Constructors and Overloading
-Inheritance and Super Keyword
-Polymorphism (Overriding and Overloading)
-Abstraction (Abstract Classes and Interfaces)
-Encapsulation and Access Modifiers
-Static vs Instance
-this and super keywords
-Object Class Methods (toString(), equals() etc.)
-
-🔹 3. DSA
-The DSA branch focuses on Data Structures and Algorithms using Java. It emphasizes writing efficient code and solving common problems in interviews.
+🔹 2. OOPs – Object-Oriented Programming in Java
+This branch focuses on Java's object-oriented principles that form the core of real-world software development.
 
 Topics Covered:
 
-Arrays and ArrayList
-Strings and StringBuilder
-Stack and Queue (using Array & LinkedList)
+Classes & Objects
+
+Constructors & Constructor Overloading
+
+Inheritance & Use of super
+
+Polymorphism (Compile-time & Runtime)
+
+Abstraction (Abstract Classes & Interfaces)
+
+Encapsulation & Access Control
+
+Static vs Instance Context
+
+Usage of this and super
+
+Methods from Object Class (toString(), equals() etc.)
+
+🔹 3. DSA – Data Structures and Algorithms in Java
+Designed to sharpen your problem-solving skills, this branch teaches efficient algorithmic techniques often tested in technical interviews.
+
+Topics Covered:
+
+Arrays & ArrayLists
+
+String Handling & StringBuilder
+
+Stack & Queue Implementations
+
 Linked Lists (Singly, Doubly, Circular)
-Searching Algorithms (Linear Search, Binary Search)
-Sorting Algorithms (Bubble, Selection, Insertion, Merge, Quick Sort)
-Recursion
-Hashing (HashMap, HashSet)
-Time and Space Complexity (Big O Analysis)
 
-🔹 4. Generics&Packages
-The Generics&Packages branch covers advanced concepts that improve code reusability, type safety, and modularity in Java applications.
+Searching (Linear & Binary)
+
+Sorting (Bubble, Selection, Insertion, Merge, Quick Sort)
+
+Recursion Techniques
+
+Hashing (HashMap, HashSet)
+
+Time & Space Complexity Analysis (Big-O Notation)
+
+🔹 4. Generics&Packages – Advanced Java Concepts
+This branch introduces Java Generics and Package management to help build reusable, modular, and type-safe code.
 
 Topics Covered:
 
-Generic Classes and Methods
+Generic Classes & Methods
+
 Bounded Type Parameters
+
 Wildcards (? extends T, ? super T)
+
 Generic Constructors
-Type Erasure and its Implications
-Java Packages and Access Modifiers
-Creating and Using Custom Packages
-Composition over Inheritance
-Real-world examples of Java Generics
+
+Type Erasure in Java
+
+Java Packages & Access Modifiers
+
+Creating and Importing Custom Packages
+
+Composition vs Inheritance
+
+Real-World Applications of Generics
