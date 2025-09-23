@@ -31,7 +31,7 @@ class Author extends Book {
     }
 }
 
-public class Main {
+ class Main {
     public static void main(String[] args) {
         Author author = new Author("Java Essentials", 2021, "John Doe", "Expert in Java programming");
         author.displayInfo();

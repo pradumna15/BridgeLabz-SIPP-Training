@@ -28,7 +28,7 @@ class Thermostat extends Device {
     }
 }
 
-public class Main {
+ class Main {
     public static void main(String[] args) {
         Thermostat t = new Thermostat("TH123", "Online", 24);
         t.displayStatus();
